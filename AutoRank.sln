@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoRank2", "AutoRank\AutoRank.vcxproj", "{5C716F5B-83A6-4DD1-A9E3-519F54FB6A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C716F5B-83A6-4DD1-A9E3-519F54FB6A4A}.Release|x86.ActiveCfg = Release|Win32
+		{5C716F5B-83A6-4DD1-A9E3-519F54FB6A4A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A2807B-20B7-4E14-A225-472179A2A9E4}
+	EndGlobalSection
+EndGlobal
